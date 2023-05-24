@@ -1,0 +1,1 @@
+git status ~e um õtimo comando!
